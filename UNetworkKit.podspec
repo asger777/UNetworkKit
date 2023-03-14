@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '13.0'
 
-  s.source_files = 'UNetworkKit/UNetworkKit/Classes/**/*'
+  s.source_files = 'UNetworkKit/Classes/**/*'
   
   # s.resource_bundles = {
   #   'UNetworkKit' => ['UNetworkKit/Assets/*.png']
